@@ -1,0 +1,1 @@
+body{font-family:monospace}body #list-webcams{display:flex;flex-wrap:wrap}body #list-webcams div{margin:10px}body #list-webcams div img{display:block;max-height:200px}body #list-webcams div p{font-size:.9em;line-height:1.3em;width:150px}body #list-webcams div span{color:#999;font-size:.8em;display:block}
